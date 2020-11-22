@@ -1,6 +1,6 @@
 # brickworld
 
-https://substack.neocities.org/brickworld.html
+# Execução
 
 ```
 $ npm install
